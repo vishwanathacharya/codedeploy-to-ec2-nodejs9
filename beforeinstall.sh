@@ -1,1 +1,1 @@
-apt install nodejs
+apt install -y nodejs
