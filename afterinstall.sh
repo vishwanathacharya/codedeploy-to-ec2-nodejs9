@@ -1,3 +1,4 @@
 #!/bin/bash
 
-npm i -f
+cd /home/ubuntu
+npm -f install
